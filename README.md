@@ -37,12 +37,12 @@
 
 ## 👥 作者
 
-- **作者**：Azek
-- **邮箱**：Azek431@163.com
-- **GitHub**：Azek431/ks-hzzfzq
-- **交流群**：QQ群 130330601
-- **QQ频道**：pd67838308
-- **Telegram频道**：@AzekMain
+- **作者**: Azek
+- **邮箱**: Azek431@163.com
+- **GitHub**: Azek431/AutoJsPro-Crd
+- **QQ交流群**: 976198923
+- **QQ频道**: pd67838308
+- **Telegram频道**: @AzekMain
 
 
 <p align="center">
